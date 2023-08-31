@@ -9,7 +9,7 @@ That's what sparked my interest in the IT sector. Within the archives sector, th
 
 For many years, I have worked in a supervisory role. It has also involved some development and implementation tasks.
 
-My goal in training in AI is to be involved in developing tomorrow's technology. Here on GitHub, you will be able to follow my journey there.
+My goal in becoming a developer in AI is to be involved in developing tomorrow's technology. Here on GitHub, you will be able to follow my journey there.
 
 ---
 
