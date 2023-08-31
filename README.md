@@ -1,2 +1,9 @@
-# portfolio-JULIA-SJOHOLM
-About me
+# This is me :smiley:
+
+## Julia Sjöholm
+
+## GitHub portfolio 
+
+## Contact me :iphone:
+
+
