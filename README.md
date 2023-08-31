@@ -19,6 +19,6 @@ My goal in becoming a developer in AI is to be involved in developing tomorrow's
 
 ## Contact me :iphone:
 
-- [linkedin]
+- !(assets/linkedIn-icon.png) [linkedin]
 
 [linkedin]: https://www.linkedin.com/in/julia-sj%C3%B6holm-19548b26b/
