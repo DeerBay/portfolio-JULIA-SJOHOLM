@@ -6,4 +6,6 @@
 
 ## Contact me :iphone:
 
+- [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
 
+[linkedin]: https://www.linkedin.com/in/julia-sj%C3%B6holm-19548b26b/
