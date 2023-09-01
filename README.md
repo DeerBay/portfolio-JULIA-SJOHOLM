@@ -1,6 +1,4 @@
-# This is me :smiley:
-
-## Julia Sjöholm
+# Julia Sjöholm :computer::woman_technologist::climbing_woman:
 
 ---
 
